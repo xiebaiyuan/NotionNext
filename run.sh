@@ -3,6 +3,8 @@
 git fetch
 git reset HEAD --hard
 git pull
+
+npm run build
 while true; do
     # 检查 Yarn 进程是否存在
     if pgrep -x "npm" > /dev/null; then
