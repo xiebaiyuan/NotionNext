@@ -1,5 +1,5 @@
 #!/bin/bash
-
+bash kill.sh
 git fetch
 git reset HEAD --hard
 git pull
