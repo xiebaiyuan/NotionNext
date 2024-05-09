@@ -1,7 +1,7 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2024-05-8', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-05-08', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -18,6 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'XIEBAIYUAN.TOP',
+  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_5: '欢迎来到我的BLOG',
   HEO_HERO_TITLE_LINK: 'https://blog.xiebaiyuan.top',
 
   // 英雄区显示三个置顶分类
