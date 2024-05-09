@@ -36,13 +36,13 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 热爱芝士和分享',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🧱 梦想努力践行者'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://github.com/xiebaiyuan', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
