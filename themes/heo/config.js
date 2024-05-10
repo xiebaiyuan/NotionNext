@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'XIEBAIYUAN.TOP',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '建站撒花',
   HEO_HERO_TITLE_5: '欢迎来到我的BLOG',
   HEO_HERO_TITLE_LINK: 'https://www.xiebaiyuan.top',
 
