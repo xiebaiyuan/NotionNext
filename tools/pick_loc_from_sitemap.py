@@ -17,7 +17,7 @@ def extract_sitemap_locs(url):
 
 
 # 示例：使用示例 URL
-sitemap_url = 'https://xiebaiyuan.top/sitemap.xml'
+sitemap_url = 'https://www.xiebaiyuan.top/sitemap.xml'
 locs = extract_sitemap_locs(sitemap_url)
 print("Extracted URLs:", locs)
 

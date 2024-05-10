@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.xiebaiyuan.top' },
-    { title: '让我们一起分享芝士吧', url: 'https://blog.xiebaiyuan.top' },
+    { title: '欢迎来到我的博客', url: 'https://www.xiebaiyuan.top' },
+    { title: '让我们一起分享芝士吧', url: 'https://www.xiebaiyuan.top' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'XIEBAIYUAN.TOP',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '欢迎来到我的BLOG',
-  HEO_HERO_TITLE_LINK: 'https://blog.xiebaiyuan.top',
+  HEO_HERO_TITLE_LINK: 'https://www.xiebaiyuan.top',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
