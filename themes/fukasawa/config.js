@@ -1,7 +1,7 @@
 const CONFIG = {
   FUKASAWA_MAILCHIMP_FORM: false, // 邮件订阅表单
 
-  FUKASAWA_POST_LIST_COVER: true, // 文章列表显示图片封面
+  FUKASAWA_POST_LIST_COVER: false, // 文章列表显示图片封面
   FUKASAWA_POST_LIST_COVER_FORCE: false, // 即使没有封面也将站点背景图设置为封面
   FUKASAWA_POST_LIST_PREVIEW: false, // 显示文章预览
   FUKASAWA_POST_LIST_ANIMATION: false, // 博客列表淡入动画
