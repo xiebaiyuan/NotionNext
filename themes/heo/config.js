@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://www.xiebaiyuan.top' },
-    { title: '让我们一起分享芝士吧', url: 'https://www.xiebaiyuan.top' },
+    { title: '让我们一起分享知识吧', url: 'https://www.xiebaiyuan.top' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -36,7 +36,7 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 热爱芝士和分享',
+    '🤝 热爱知识和分享',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
