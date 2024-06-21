@@ -9,3 +9,4 @@ for pid in $pids; do
 done
 
 echo "All npm start and node processes have been killed."
+
